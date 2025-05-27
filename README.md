@@ -22,7 +22,7 @@ cd tarjim
 
 Install dependencies:
 
-    pip install -r requirements.txt
+    
 
     Set up credentials:
 
