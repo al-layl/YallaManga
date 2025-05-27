@@ -30,9 +30,6 @@ Install dependencies:
 
         OpenAI API: Add your OpenAI API key in the code (client = OpenAI(api_key="...")).
 
-    Add the Arabic font:
-
-        Place the font file (e.g., NotoNaskhArabic-VariableFont_wght.ttf) in a Noto_Naskh_Arabic folder inside the project directory.
 
 📂 Usage
 
