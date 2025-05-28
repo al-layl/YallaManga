@@ -1,6 +1,6 @@
-📚 Tarjim: Arabic Manga Translator
+📚 YallaManga: Arabic Manga Translator
 
-Tarjim is a Python tool that extracts English text from manga images, translates it into natural spoken Palestinian Shami Arabic, and overlays the translation back onto the images. It uses Google OCR for text detection, OpenAI GPT for translation, and handles Arabic text layout for proper rendering.
+YallaManga is a Python tool that extracts English text from manga images, translates it into natural spoken Palestinian Shami Arabic, and overlays the translation back onto the images. It uses Google OCR for text detection, OpenAI GPT for translation, and handles Arabic text layout for proper rendering.
 🚀 Features
 
     🖼️ Extracts text from manga panels using Google Vision OCR.
@@ -17,7 +17,7 @@ Tarjim is a Python tool that extracts English text from manga images, translates
 
     Clone the repo:
 
-git clone https://github.com/al-layl/tarjim.git
+git clone https://github.com/al-layl/YallaManga.git
 cd tarjim
 
 Install dependencies:
